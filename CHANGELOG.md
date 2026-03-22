@@ -1,4 +1,8 @@
 # ListFlow Changelog
+## v1.2.0
+- List badges now show completed/total tasks (e.g. 2/5) instead of just total count
+- App is now self-contained — no .NET runtime installation required
+- Added option in Settings to disable automatic update checks on startup
 
 ## v1.1.0
 - Fixed app icon now displays correctly in the taskbar and window title bar
