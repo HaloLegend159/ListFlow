@@ -1,4 +1,12 @@
 # ListFlow Changelog
+## v1.3.0
+- Added Counter Lists — a new list type for tracking numbers, inventory, and quantities
+- Counter items support +/- buttons, custom step size, optional goal, unit labels, and decimal values
+- Counter items have full task support: priority, due dates, follow-up reminders, notes, image attachments, and pinning
+- Counter items log a full change history showing every value change with timestamp
+- New list dialog now asks whether to create a Task List or Counter List
+- Counter lists are labeled with a 🔢 icon in the sidebar
+
 ## v1.2.0
 - List badges now show completed/total tasks (e.g. 2/5) instead of just total count
 - App is now self-contained — no .NET runtime installation required
